@@ -1,0 +1,58 @@
+export const FeaturedItemsData = [
+  {
+    id: 1,
+    title: 'Featured Item 1',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    image: 'https://source.unsplash.com/random/400x300?minimal',
+    path: '/',
+  },
+  {
+    id: 2,
+    title: 'Featured Item 2',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    image: 'https://source.unsplash.com/random/400x300?deco',
+    path: '/',
+  },
+  {
+    id: 3,
+    title: 'Featured Item 3',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    image: 'https://source.unsplash.com/random/400x300/?vases',
+    path: '/',
+  },
+  {
+    id: 4,
+    title: 'Featured Item 4',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    image: 'https://source.unsplash.com/random/400x300?table',
+    path: '/',
+  },
+  {
+    id: 5,
+    title: 'Featured Item 5',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    image: 'https://source.unsplash.com/random/400x300?candleholder',
+    path: '/',
+  },
+  {
+    id: 6,
+    title: 'Featured Item 6',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    image: 'https://source.unsplash.com/random/400x300?sofa',
+    path: '/',
+  },
+  {
+    id: 7,
+    title: 'Featured Item 7',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    image: 'https://source.unsplash.com/random/400x300?chair',
+    path: '/',
+  },
+  {
+    id: 8,
+    title: 'Featured Item 8',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    image: 'https://source.unsplash.com/random/400x300?lamp',
+    path: '/',
+  },
+]
